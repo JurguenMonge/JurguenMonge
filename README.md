@@ -4,9 +4,8 @@
 
 <h3 align="center">A passionate developer frontend and backend from Costa Rica</h3>
 <p align="left">
-  I have experience in web and mobile development, and I am passionate about continuous learning and technological innovation. My expertise spans both front-end and back-end development, with strong skills in frameworks such as React.js, React Native, .NET Core 8 and RESTful APIs. I am known for my commitment to excellence, always striving to exceed expectations and deliver creative and efficient solutions.
+  I have experience in web, backend and mobile development, and I am passionate about continuous learning and technological innovation. My expertise spans both front-end and back-end development, with strong skills in frameworks such as React.js, React Native, .NET Core 8 and RESTful APIs. I am known for my commitment to excellence, always striving to exceed expectations and deliver creative and efficient solutions.
 
-  Currently, I am seeking internship opportunities to complement my academic background in Systems Engineering. I am eager to contribute to and learn from a dynamic, high-performance environment.
 </p>
 
 
